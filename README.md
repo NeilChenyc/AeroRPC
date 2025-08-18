@@ -36,6 +36,3 @@ AeroRPC 支持使用 ZooKeeper 或 Nacos 作为服务注册中心。您可以在
 
 欢迎对 AeroRPC 项目贡献代码！如果您有任何改进建议或发现了 bug，请通过 Issue 或 Pull Request 的方式提交。
 
-## 许可证
-
-本项目采用 [Apache License 2.0](LICENSE) 开源许可证。
